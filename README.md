@@ -1,16 +1,136 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**IMMORTAL-PHOENIX-1/IMMORTAL-PHOENIX-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=250&section=header&text=J.%20Aum%20Aditya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20%26%20ML&descAlignY=55&descSize=17" width="100%" />
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Designing+interfaces+in+Figma;Building+full-stack+web+apps;Training+ML+models+with+Scikit-learn;Bridging+design+%2B+engineering+%2B+data" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://img.shields.io/badge/CGPA-9.35%2F10-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Academic%20Topper-2x-4D96FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Figma-Certified-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=4" width="100%" />
+</div>
+
+
+### 👋 About me
+
+I'm a fourth-year B.Tech CS student based in **Hyderabad, India**, working at the intersection of **design, engineering, and data**. I bridge Figma-certified UI/UX design with hands-on full-stack development and Data Science/ML pipelines — turning high-fidelity prototypes into working, data-informed products.
+
+- 🎨 Figma-certified — wireframes, design systems, hi-fi prototypes, user research
+- 💻 Full-stack developer — React, Vite, Node, REST APIs
+- 📊 Data Science & ML — Pandas, NumPy, Scikit-learn, predictive modeling, dashboards
+- 🏆 Academic Topper for 2 consecutive years · CGPA 9.35/10
+- 🥉 Bronze Medal, National Boxing Championship — because balance matters
+- 📬 Open to internships & junior roles in UI/UX, Full-Stack Development, or Data Science
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=4" width="100%" />
+</div>
+
+### 🧰 Tech Stack
+
+<div align="center">
+
+**Languages & Web**
+
+<img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,react,vite,nodejs,git,github,vscode,figma" />
+
+**Data Science & ML**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=4" width="100%" />
+</div>
+
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/IMMORTAL-PHOENIX-1/ocenaries_fisheries-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMMORTAL-PHOENIX-1&repo=ocenaries_fisheries-&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/IMMORTAL-PHOENIX-1/CURA---AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMMORTAL-PHOENIX-1&repo=CURA---AI&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/IMMORTAL-PHOENIX-1/e-commerce-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMMORTAL-PHOENIX-1&repo=e-commerce-react&theme=gruvbox&hide_border=true" />
+  </a>
+</div>
+
+<details>
+<summary><b>🌊 Oceanic Fisheries Monitoring & Management</b> — AI analytics + dashboard design</summary>
+<br/>
+
+Built an AI-driven analytics platform combining ML models and IoT sensor data for real-time monitoring, anomaly detection, and sustainable fisheries management. Designed the end-to-end dashboard in Figma — wireframes, component library, and hi-fi prototypes for two user personas (fishermen and regulators) — with heatmaps, alert panels, and performance charts applying visual hierarchy and progressive disclosure. Applied Scikit-learn pipelines and feature engineering to generate recommendations for sustainable harvesting and optimized vessel routes.
+
+`Figma` `Python` `Scikit-learn` `Dashboard Design`
+</details>
+
+<details>
+<summary><b>🩺 CURA AI — Intelligent Medical Chatbot</b> — conversational UX + AI workflows</summary>
+<br/>
+
+Developed an AI-powered medical chatbot offering symptom-based guidance through conversational interactions. Designed the full conversational UX in Figma — user flows, dialogue trees, interaction states, and a reusable component system (message bubbles, input states, loading indicators) — with empathy-driven, accessible design principles. Balanced Python/AI backend constraints with UX goals and documented complete design-to-dev handoff specs.
+
+`Python` `Figma` `Conversational UX` `AI Workflows`
+</details>
+
+<details>
+<summary><b>🛒 e-commerce-react</b> — full-stack storefront</summary>
+<br/>
+
+A React + Vite storefront with live product data from a public API, a persistent cart, order history and tracking, and an admin panel to add/remove products — built end-to-end from data layer to UI.
+
+`React` `Vite` `Zustand` `Tailwind CSS`
+</details>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=4" width="100%" />
+</div>
+
+### 🎓 Certifications & Achievements
+
+- 🎨 **Figma Certified** — Simplilearn
+- 💻 **HackerRank Certified** — Python, SQL, HTML
+- 🏆 **Academic Topper** — 2 consecutive years, Sreyas Institute of Engineering & Technology
+- 🥊 **Bronze Medal** — National Boxing Championship
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=4" width="100%" />
+</div>
+
+### 📬 Get in touch
+
+<div align="center">
+
+<a href="mailto:jaumaditya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Add your LinkedIn / portfolio links here once ready -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=IMMORTAL-PHOENIX-1&style=for-the-badge&color=6C63FF" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=120&section=footer" width="100%" />
+</div>
