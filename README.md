@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,1E3A8A,2563EB,3B82F6,93C5FD&height=250&section=header&text=J.%20Aum%20Aditya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20and%20ML&descAlignY=55&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020617,0F172A,1E3A8A,1D4ED8,2563EB,3B82F6,7DD3FC&height=250&section=header&text=J.%20Aum%20Aditya&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=UI%2FUX%20Designer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20and%20ML&descAlignY=55&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Designing+interfaces+in+Figma;Building+full-stack+web+apps;Training+ML+models+with+Scikit-learn;Bridging+design+%2B+engineering+%2B+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Designing+interfaces+in+Figma;Building+full-stack+web+apps;Training+ML+models+with+Scikit-learn;Bridging+design+%2B+engineering+%2B+data" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/CGPA-9.35%2F10-1E3A8A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Academic%20Topper-2x-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Stack%20Developer-38BDF8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Figma-Certified-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0F172A,1E3A8A,2563EB,3B82F6,93C5FD&height=4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=020617,0F172A,1E3A8A,1D4ED8,2563EB,3B82F6,7DD3FC&height=4" width="100%" />
 </div>
 
 
@@ -32,7 +33,7 @@ I'm a fourth-year B.Tech CS student based in **Hyderabad, India**, working at th
 - 📬 Open to internships & junior roles in UI/UX, Full-Stack Development, or Data Science
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0F172A,1E3A8A,2563EB,3B82F6,93C5FD&height=4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=020617,0F172A,1E3A8A,1D4ED8,2563EB,3B82F6,7DD3FC&height=4" width="100%" />
 </div>
 
 ### 🧰 Tech Stack
@@ -57,7 +58,7 @@ I'm a fourth-year B.Tech CS student based in **Hyderabad, India**, working at th
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0F172A,1E3A8A,2563EB,3B82F6,93C5FD&height=4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=020617,0F172A,1E3A8A,1D4ED8,2563EB,3B82F6,7DD3FC&height=4" width="100%" />
 </div>
 
 ### 📌 Featured Projects
@@ -110,7 +111,7 @@ A React + Vite storefront with live product data from a public API, a persistent
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0F172A,1E3A8A,2563EB,3B82F6,93C5FD&height=4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=020617,0F172A,1E3A8A,1D4ED8,2563EB,3B82F6,7DD3FC&height=4" width="100%" />
 </div>
 
 ### 🎓 Certifications & Achievements
@@ -121,7 +122,21 @@ A React + Vite storefront with live product data from a public API, a persistent
 - 🥊 **Bronze Medal** — National Boxing Championship
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0F172A,1E3A8A,2563EB,3B82F6,93C5FD&height=4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=020617,0F172A,1E3A8A,1D4ED8,2563EB,3B82F6,7DD3FC&height=4" width="100%" />
+</div>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMMORTAL-PHOENIX-1/IMMORTAL-PHOENIX-1/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMMORTAL-PHOENIX-1/IMMORTAL-PHOENIX-1/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/IMMORTAL-PHOENIX-1/IMMORTAL-PHOENIX-1/output/dist/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=020617,0F172A,1E3A8A,1D4ED8,2563EB,3B82F6,7DD3FC&height=4" width="100%" />
 </div>
 
 ### 📬 Get in touch
@@ -140,5 +155,5 @@ A React + Vite storefront with live product data from a public API, a persistent
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,1E3A8A,2563EB,3B82F6,93C5FD&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020617,0F172A,1E3A8A,1D4ED8,2563EB,3B82F6,7DD3FC&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
