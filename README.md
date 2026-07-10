@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=250&section=header&text=J.%20Aum%20Aditya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20%26%20ML&descAlignY=55&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77,4D96FF,9D4EDD&height=250&section=header&text=J.%20Aum%20Aditya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20and%20ML&descAlignY=55&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Designing+interfaces+in+Figma;Building+full-stack+web+apps;Training+ML+models+with+Scikit-learn;Bridging+design+%2B+engineering+%2B+data" alt="Typing SVG" />
@@ -62,17 +62,25 @@ I'm a fourth-year B.Tech CS student based in **Hyderabad, India**, working at th
 
 ### 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/IMMORTAL-PHOENIX-1/ocenaries_fisheries-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMMORTAL-PHOENIX-1&repo=ocenaries_fisheries-&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/IMMORTAL-PHOENIX-1/CURA---AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMMORTAL-PHOENIX-1&repo=CURA---AI&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/IMMORTAL-PHOENIX-1/e-commerce-react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMMORTAL-PHOENIX-1&repo=e-commerce-react&theme=gruvbox&hide_border=true" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <b>🌊 <a href="https://github.com/IMMORTAL-PHOENIX-1/ocenaries_fisheries-">ocenaries_fisheries-</a></b><br/>
+      Oceanic Fisheries Monitoring & Management<br/>
+      <sub>Figma · Python · Scikit-learn</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🩺 <a href="https://github.com/IMMORTAL-PHOENIX-1/CURA---AI">CURA---AI</a></b><br/>
+      Intelligent Medical Chatbot<br/>
+      <sub>Python · Figma · AI Workflows</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🛒 <a href="https://github.com/IMMORTAL-PHOENIX-1/e-commerce-react">e-commerce-react</a></b><br/>
+      Full-stack storefront<br/>
+      <sub>React · Vite · Zustand · Tailwind</sub>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>🌊 Oceanic Fisheries Monitoring & Management</b> — AI analytics + dashboard design</summary>
