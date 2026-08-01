@@ -1,0 +1,108 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="55%" stop-color="#0F0F0F"/>
+      <stop offset="100%" stop-color="#1C1712"/>
+    </linearGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#D9A44A" stop-opacity="0.30"/>
+      <stop offset="55%" stop-color="#D9A44A" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#D9A44A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#D9A44A"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1C1712"/>
+      <stop offset="50%" stop-color="#D9A44A"/>
+      <stop offset="100%" stop-color="#1C1712"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <!-- ambient glow behind title -->
+  <ellipse cx="600" cy="130" rx="520" ry="200" fill="url(#glowGrad)"/>
+
+  <!-- starfield -->
+  <circle cx="765.9" cy="12.3" r="0.93" fill="#FFFFFF" opacity="0.4"/>
+  <circle cx="810.3" cy="263.7" r="0.7" fill="#D9A44A" opacity="0.52"/>
+  <circle cx="265.2" cy="151.6" r="0.63" fill="#FFFFFF" opacity="0.38"/>
+  <circle cx="653.5" cy="68.9" r="1.31" fill="#D9A44A" opacity="0.78"/>
+  <circle cx="963.9" cy="207.5" r="1.01" fill="#FFFFFF" opacity="0.35"/>
+  <circle cx="405.5" cy="31.9" r="0.72" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="965.5" cy="216.6" r="1.24" fill="#FFFFFF" opacity="0.88"/>
+  <circle cx="661.9" cy="245.5" r="1.34" fill="#FFFFFF" opacity="0.81"/>
+  <circle cx="843.4" cy="18.3" r="0.87" fill="#D9A44A" opacity="0.44"/>
+  <circle cx="282.0" cy="34.3" r="0.93" fill="#FFFFFF" opacity="0.66"/>
+  <circle cx="445.5" cy="65.8" r="0.92" fill="#FFFFFF" opacity="0.86"/>
+  <circle cx="729.9" cy="54.6" r="1.47" fill="#FFFFFF" opacity="0.36"/>
+  <circle cx="1182.5" cy="190.6" r="1.27" fill="#FFFFFF" opacity="0.69"/>
+  <circle cx="928.4" cy="71.4" r="0.64" fill="#FFFFFF" opacity="0.46"/>
+  <circle cx="256.1" cy="278.4" r="1.65" fill="#FFFFFF" opacity="0.45"/>
+  <circle cx="475.8" cy="270.2" r="1.15" fill="#D9A44A" opacity="0.42"/>
+  <circle cx="673.0" cy="81.2" r="1.3" fill="#FFFFFF" opacity="0.83"/>
+  <circle cx="266.0" cy="294.3" r="1.21" fill="#D9A44A" opacity="0.31"/>
+  <circle cx="135.5" cy="187.0" r="1.55" fill="#D9A44A" opacity="0.52"/>
+  <circle cx="459.1" cy="293.9" r="1.23" fill="#FFFFFF" opacity="0.88"/>
+  <circle cx="18.7" cy="214.0" r="1.42" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="767.7" cy="37.4" r="1.12" fill="#FFFFFF" opacity="0.54"/>
+  <circle cx="1047.3" cy="81.4" r="1.2" fill="#FFFFFF" opacity="0.37"/>
+  <circle cx="1040.9" cy="91.5" r="1.37" fill="#D9A44A" opacity="0.65"/>
+  <circle cx="912.4" cy="161.4" r="1.53" fill="#D9A44A" opacity="0.59"/>
+  <circle cx="390.7" cy="10.6" r="1.71" fill="#FFFFFF" opacity="0.82"/>
+  <circle cx="370.9" cy="21.8" r="1.65" fill="#D9A44A" opacity="0.87"/>
+  <circle cx="583.3" cy="25.1" r="1.51" fill="#D9A44A" opacity="0.75"/>
+  <circle cx="1043.2" cy="127.7" r="0.85" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="244.4" cy="95.4" r="1.79" fill="#FFFFFF" opacity="0.67"/>
+  <circle cx="620.9" cy="40.1" r="0.87" fill="#FFFFFF" opacity="0.47"/>
+  <circle cx="278.8" cy="68.9" r="0.69" fill="#D9A44A" opacity="0.66"/>
+  <circle cx="1082.4" cy="254.3" r="0.69" fill="#FFFFFF" opacity="0.4"/>
+  <circle cx="259.9" cy="43.4" r="1.72" fill="#FFFFFF" opacity="0.62"/>
+  <circle cx="938.7" cy="239.2" r="0.83" fill="#FFFFFF" opacity="0.31"/>
+  <circle cx="806.3" cy="290.4" r="0.72" fill="#FFFFFF" opacity="0.51"/>
+  <circle cx="1030.4" cy="77.1" r="0.83" fill="#FFFFFF" opacity="0.54"/>
+  <circle cx="336.5" cy="77.4" r="1.71" fill="#FFFFFF" opacity="0.54"/>
+  <circle cx="659.9" cy="19.7" r="1.8" fill="#FFFFFF" opacity="0.79"/>
+  <circle cx="1107.4" cy="251.1" r="0.8" fill="#D9A44A" opacity="0.57"/>
+  <circle cx="482.2" cy="22.0" r="1.05" fill="#FFFFFF" opacity="0.89"/>
+  <circle cx="938.0" cy="137.0" r="1.11" fill="#FFFFFF" opacity="0.87"/>
+  <circle cx="666.4" cy="213.3" r="0.79" fill="#FFFFFF" opacity="0.44"/>
+  <circle cx="73.0" cy="174.4" r="1.2" fill="#D9A44A" opacity="0.8"/>
+  <circle cx="1148.3" cy="28.2" r="0.82" fill="#FFFFFF" opacity="0.64"/>
+  <circle cx="284.9" cy="39.8" r="1.67" fill="#FFFFFF" opacity="0.41"/>
+  <circle cx="627.1" cy="276.1" r="0.85" fill="#D9A44A" opacity="0.72"/>
+  <circle cx="476.0" cy="199.8" r="0.96" fill="#FFFFFF" opacity="0.46"/>
+  <circle cx="91.3" cy="137.9" r="1.8" fill="#D9A44A" opacity="0.9"/>
+  <circle cx="258.7" cy="81.9" r="1.72" fill="#FFFFFF" opacity="0.82"/>
+  <circle cx="444.7" cy="50.7" r="1.6" fill="#FFFFFF" opacity="0.71"/>
+  <circle cx="1179.8" cy="194.7" r="0.61" fill="#FFFFFF" opacity="0.78"/>
+  <circle cx="794.4" cy="277.3" r="0.76" fill="#D9A44A" opacity="0.33"/>
+  <circle cx="663.3" cy="84.0" r="1.33" fill="#D9A44A" opacity="0.72"/>
+  <circle cx="759.7" cy="81.6" r="1.19" fill="#FFFFFF" opacity="0.84"/>
+  <circle cx="114.8" cy="127.8" r="0.93" fill="#FFFFFF" opacity="0.25"/>
+  <circle cx="763.2" cy="81.0" r="1.49" fill="#FFFFFF" opacity="0.61"/>
+  <circle cx="16.5" cy="26.8" r="1.66" fill="#FFFFFF" opacity="0.84"/>
+  <circle cx="998.2" cy="173.9" r="0.78" fill="#FFFFFF" opacity="0.33"/>
+  <circle cx="1074.8" cy="235.9" r="1.63" fill="#D9A44A" opacity="0.83"/>
+  <circle cx="301.9" cy="34.8" r="1.54" fill="#FFFFFF" opacity="0.82"/>
+  <circle cx="743.6" cy="49.8" r="1.72" fill="#FFFFFF" opacity="0.81"/>
+  <circle cx="969.8" cy="260.6" r="0.63" fill="#FFFFFF" opacity="0.73"/>
+  <circle cx="1112.7" cy="237.6" r="1.64" fill="#FFFFFF" opacity="0.78"/>
+  <circle cx="942.0" cy="36.3" r="1.65" fill="#D9A44A" opacity="0.81"/>
+  <circle cx="976.7" cy="138.5" r="0.97" fill="#D9A44A" opacity="0.77"/>
+
+  <!-- title -->
+  <text x="600" y="150" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="58" font-weight="bold" fill="url(#nameGrad)">J. Aum Aditya</text>
+
+  <!-- role tagline -->
+  <text x="600" y="196" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="18" letter-spacing="2.5" fill="#D9A44A">PYTHON DEVELOPER  ·  FULL-STACK DEVELOPER  ·  AI/ML</text>
+
+  <!-- supporting line -->
+  <text x="600" y="232" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#9CA3AF">Building backends with Python &amp; Flask   ·   Training ML models with Scikit-learn   ·   Designing in Figma</text>
+
+  <!-- bottom accent line -->
+  <rect x="0" y="295" width="1200" height="3" fill="url(#lineGrad)" opacity="0.85"/>
+</svg>
