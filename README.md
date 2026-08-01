@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0F0F0F,1C1712,3D2B12,7A5A1F,D9A44A&height=260&section=header&text=J.%20Aum%20Aditya&fontSize=48&fontColor=D9A44A&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20%26%20ML&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%" />
+<img src="https://raw.githubusercontent.com/IMMORTAL-PHOENIX-1/IMMORTAL-PHOENIX-1/main/profile-banner.svg" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=D9A44A&center=true&vCenter=true&width=650&lines=Building+backends+with+Python+%26+Flask;Training+ML+models+with+Scikit-learn;Designing+full-stack+web+apps;Crafting+interfaces+in+Figma" alt="Typing SVG" />
@@ -168,6 +168,12 @@ A React + Vite storefront with live product data from a public API, a persistent
 
 ### 🏆 Trophy Case
 
+<!--
+  If trophies don't render: the shared vercel.app instance is on a free-tier
+  quota that gets exhausted globally (returns HTTP 402 until it resets).
+  Swap in a community mirror or your own self-hosted deploy here, e.g.:
+  https://github-profile-trophy-liard-delta.vercel.app/?username=IMMORTAL-PHOENIX-1&no-frame=true&theme=gruvbox&row=1&column=6&margin-w=8&margin-h=8
+-->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IMMORTAL-PHOENIX-1&no-frame=true&theme=gruvbox&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
